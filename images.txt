@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #下面填写
 joinsunsoft/docker.ui
+mysql:8.0.32
+phpmyadmin:5.2.1
+redis:6.2
+spryker/redis-commander:0.8.0
+rabbitmq:3.12.9
