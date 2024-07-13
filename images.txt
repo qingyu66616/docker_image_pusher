@@ -4,7 +4,6 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-#下面填写
 joinsunsoft/docker.ui
 mysql:8.0.32
 phpmyadmin:5.2.1
