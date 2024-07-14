@@ -1,3 +1,4 @@
+spryker/redis-commander
 kasmweb/nginx
 joinsunsoft/docker.ui
-spryker/redis-commander
+
